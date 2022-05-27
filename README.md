@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+
+ <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
+ #3776AB
 - homepage : https://soobyoungyoun.github.io/soobyoungYOUN/index.html
 <!--
 **soobyoungYOUN/soobyoungYOUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
