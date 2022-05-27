@@ -5,7 +5,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soobyoungYOUN)](https://solved.ac/soobyoungYOUN)<br/>
  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
- #3776AB
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobyoungYOUN&langs_count=8)](https://github.com/soobyoungYOUN/github-readme-stats)
+
+ 
 - homepage : https://soobyoungyoun.github.io/soobyoungYOUN/index.html
 <!--
 **soobyoungYOUN/soobyoungYOUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
