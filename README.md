@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soobyoung%20YOUN&fontSize=90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobyoungYOUN&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobyoungYOUN&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobyoungYOUN&langs_count=8)](https://github.com/soobyoungYOUN/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobyoungYOUN&langs_count=8)](https://github.com/soobyoungYOUN/github-readme-stats)
+ 
 
  
 - blog : https://velog.io/@watervottle
