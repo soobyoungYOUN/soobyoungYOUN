@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soobyoung%20YOUN&fontSize=90)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soobyoungYOUN)](https://solved.ac/soobyoungYOUN)<br/>
  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
