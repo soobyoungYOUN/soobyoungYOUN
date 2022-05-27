@@ -3,8 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobyoungYOUN&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soobyoungYOUN)](https://solved.ac/soobyoungYOUN)<br/>
- <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
+
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobyoungYOUN&langs_count=8)](https://github.com/soobyoungYOUN/github-readme-stats)
 
