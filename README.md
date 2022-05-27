@@ -9,7 +9,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobyoungYOUN&langs_count=8)](https://github.com/soobyoungYOUN/github-readme-stats)
 
  
-- homepage : https://soobyoungyoun.github.io/soobyoungYOUN/index.html
+- blog : https://velog.io/@watervottle
 <!--
 **soobyoungYOUN/soobyoungYOUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
