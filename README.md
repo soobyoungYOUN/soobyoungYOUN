@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soobyoung%20YOUN&fontSize=90)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobyoungYOUN&show_icons=true&theme=radical)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soobyoungYOUN)](https://solved.ac/soobyoungYOUN)<br/>
  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
  #3776AB
