@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
- <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=soobyoungYOUN)](https://solved.ac/soobyoungYOUN)<br/>
+ <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
  #3776AB
 - homepage : https://soobyoungyoun.github.io/soobyoungYOUN/index.html
 <!--
