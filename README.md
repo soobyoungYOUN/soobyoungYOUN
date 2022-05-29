@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Soobyoung%20YOUN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=00CCFF&height=300&section=header&text=Soobyoung%20YOUN&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobyoungYOUN&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobyoungYOUN&langs_count=8)](https://github.com/soobyoungYOUN/github-readme-stats)
 
