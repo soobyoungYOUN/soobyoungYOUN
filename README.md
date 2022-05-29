@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soobyoungYOUN&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobyoungYOUN&langs_count=8)](https://github.com/soobyoungYOUN/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-33FFFF?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=Java&logoColor=white"/>
 
  
  
