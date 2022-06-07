@@ -8,7 +8,7 @@
  
  
 
- 
+- simple game dir : https://github.com/soobyoungYOUN/webBasic-frontend-/tree/main/game 
 - blog : https://velog.io/@watervottle
 <!--
 **soobyoungYOUN/soobyoungYOUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
